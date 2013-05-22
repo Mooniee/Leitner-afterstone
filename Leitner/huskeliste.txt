@@ -1,0 +1,13 @@
+Til alle dere snoker som leser dette, vil jeg bare si: TAKK TIL SIMEN FOR ALL IDEER OG HJELP!
+
+- Spørsmålshistorie - holde styr på hva brukeren har svart over tid.
+- Få til resizing.
+- Lage, lagre, åpne og dele spørsmål.
+- Flere oppgavesett åpne samtidig.
+- Åpne/aggrere oppgavesett.
+- Stille på hvor lang tid det tar før man får et spørsmål på nytt.
+- Redigere spørsmål.
+
+
+Adminpane: 
+	1)Lag en ny knapp som heter noe som "Se spørsmål". Åpner et nytt vindu hvor man kan se på og redigere spørsmål.
